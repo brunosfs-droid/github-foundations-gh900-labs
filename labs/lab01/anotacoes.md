@@ -11,3 +11,6 @@ Objetivo: compreender o ciclo de versionamento.
 
 ## Aplicação prática
 Primeiro arquivo criado localmente.
+
+## Desafio Final
+Alteracao para estudar o Git.
