@@ -1,0 +1,5 @@
+# LAB 05: exemplo de responsabilidade por arquivos.
+# A exigência de aprovação requer regras de proteção/rulesets compatíveis.
+* @brunosfs-droid
+/docs/ @brunosfs-droid
+/.github/ @brunosfs-droid

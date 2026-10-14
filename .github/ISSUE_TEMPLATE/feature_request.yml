@@ -1,0 +1,17 @@
+name: Propor melhoria
+description: Sugira uma melhoria para o treinamento
+title: "[Melhoria]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: O que pode melhorar?
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Qual o benefício?
+    validations:
+      required: true
