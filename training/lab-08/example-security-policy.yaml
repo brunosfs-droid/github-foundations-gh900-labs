@@ -1,0 +1,11 @@
+# LAB 08 — SAMPLE ONLY / DO NOT DEPLOY
+# Deliberately flawed fictional configuration for review practice.
+service:
+  name: demo-web
+  listen_address: 0.0.0.0
+  port: 8080
+  authentication_required: false
+  audit_logging: false
+  allowed_sources:
+    - 0.0.0.0/0
+  tls_required: false
