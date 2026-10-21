@@ -32,3 +32,6 @@ O repositório pode evoluir conforme a execução dos laboratórios. A lista nã
 ## Material de referência
 - [GitHub Docs](https://docs.github.com/)
 - [Guia do exame GH-900](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/gh-900)
+
+## LAB 06 - Teste de proteção
+Esta alteração testa a proteção da branch main.
