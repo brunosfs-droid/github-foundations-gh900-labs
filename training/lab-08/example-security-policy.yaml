@@ -4,8 +4,8 @@ service:
   name: demo-web
   listen_address: 0.0.0.0
   port: 8080
-  authentication_required: false
-  audit_logging: false
+  authentication_required: true
+  audit_logging: true
   allowed_sources:
-    - 0.0.0.0/0
-  tls_required: false
+    - 10.102.132.111/32
+  tls_required: true
