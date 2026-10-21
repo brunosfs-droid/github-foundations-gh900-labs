@@ -1,0 +1,8 @@
+# LAB 08 — SAMPLE ONLY / NOT A GITHUB ACTIONS WORKFLOW
+# Fictional pseudo-CI config; intentionally unsafe for review training.
+pipeline:
+  name: demo-validation
+  permissions: write-all
+  require_tests: false
+  require_dependency_scan: false
+  artifact_retention_days: 365
