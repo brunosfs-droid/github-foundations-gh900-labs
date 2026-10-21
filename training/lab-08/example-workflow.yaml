@@ -2,7 +2,7 @@
 # Fictional pseudo-CI config; intentionally unsafe for review training.
 pipeline:
   name: demo-validation
-  permissions: write-all
-  require_tests: false
-  require_dependency_scan: false
+  permissions: read only
+  require_tests: true
+  require_dependency_scan: true
   artifact_retention_days: 365
